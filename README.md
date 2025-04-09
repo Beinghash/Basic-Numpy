@@ -1,7 +1,3 @@
-Here's a description you can use for your GitHub README file to describe the "Basic NumPy" notes in your "Data Analysis" series:
-
----
-
 # Data Analysis Series: Basic NumPy
 
 This section of the "Data Analysis" series focuses on introducing **NumPy**, a fundamental library for numerical computing in Python. NumPy provides powerful tools for handling arrays and matrices, along with a wide range of mathematical and statistical operations. The following topics will guide you through the core concepts and functionalities of NumPy to enhance your data analysis skills.
